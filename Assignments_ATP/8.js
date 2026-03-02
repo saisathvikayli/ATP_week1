@@ -47,4 +47,3 @@ for (i in emps)
 // 3.Change the last mark 95 to 75 of emp  "Sneha"
 emps[3].marks[2] =75
 console.log(emps[3])
-// if (emps.
