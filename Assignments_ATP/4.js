@@ -1,4 +1,5 @@
-//smallest element 
+//smallest element in the marks array
+
 let marks=[90,78,65,98]
 let  i=0;
 let min = marks[i]
@@ -7,3 +8,4 @@ for(i=1;i<marks.length;i++)
         min=marks[i]
 
 console.log(`minimum element from makrs is ${min}`);
+
